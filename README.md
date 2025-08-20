@@ -3,7 +3,7 @@
 Predict the risk of heart disease with a simple, interactive **Streamlit** app powered by a **K-Nearest Neighbors (KNN)** model.
 
 <p align="center">
-  <img alt="Heart disease prediction app" src="assets/screenshot.png" width="720"/>
+  <img alt="Heart_Disease_Prediction_Model" src="assets/screenshot.png" width="720"/>
 </p>
 
 <p align="center">
